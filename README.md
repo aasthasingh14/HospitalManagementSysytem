@@ -116,4 +116,4 @@ This module allows admin to perform five major operations:
 
 &nbsp; &nbsp; &nbsp; Admin can also delete the doctors from the system. This let admin to have more control over the system.
   
-## Contributors : 
+## Contributors : [Shrey Nalode](https://github.com/Shrey2dew)
